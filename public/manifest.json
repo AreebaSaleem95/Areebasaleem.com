@@ -1,0 +1,17 @@
+{
+  "name": "Areeba Saleem | AI Engineer & Full Stack Developer",
+  "short_name": "Areeba Saleem",
+  "description": "Portfolio of Areeba Saleem — AI Engineer, Full-Stack Developer specializing in MERN Stack, LLMs, and Agentic AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff2a2a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
